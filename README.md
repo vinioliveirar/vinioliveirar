@@ -2,7 +2,7 @@
 
 🎓 **Studying**: Analise e Desenvolvimento de Sistema - FATEC 2ª Semestre ;
 
-🌱 **Learning**: JavaScript;
+🌱 **Learning**: JavaScript, ReactJS;
 
 ##
  <div>
