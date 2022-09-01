@@ -1,6 +1,6 @@
 ### Seja bem vindo! Eu sou Vinicius Oliveira.
 
-🎓 **Studying**: Analise e Desenvolvimento de Sistema - FATEC 2ª Semestre ;
+🎓 **Studying**: Analise e Desenvolvimento de Sistema;
 
 🌱 **Learning**: JavaScript, ReactJS;
 
